@@ -63,7 +63,7 @@ Metode beda hingga ini merupakan perluasan dari metode beda tengah (central diff
 
 - Difusi adalah sebuah proses dimana suatu zat bergerak dari konsentrasi tinggi ke rendah, sehingga akan menghasilkan konsentrasi yang sama didalam zat tersebut.
 - Persamaan Difusi 2D
-![gambar](https://user-images.githubusercontent.com/105971274/169653265-89ac5ba3-74b0-4c69-ad2c-09dfb87c29ae.png)
+![gambar](https://user-images.githubusercontent.com/105971274/169666820-cc368012-44c2-4028-be8d-b4c89a71c9e7.png)
 
 - Pengaplikasian persamaan adveksi-difusi 2 dimensi digunakan sebagai pemodelan persebaran polutan. Persamaan adveksi-difusi 2D dapat digunakan juga dalam simulasi pergerakan atau persebaran tumpahan minyak (oil spill). Pengaplikasian persamaan adveksi difusi 2 dimensi digunakan untuk mengetahui distribusi partikel sedimen
 
@@ -82,6 +82,7 @@ Model 2D untuk mekanisme transpor difusi dapat menggunakan pendekatan beda maju 
 
 - Adveksi-Difusi 2D
 Persamaan diskritisasi model 2D mendekati proses kejadian di alam. Untuk diskritisasi model 2D proses adveksi-difusi didapat dari menggabungkan deskritisasi dua suku yakni suku adveksi dan suku difusi. untuk model adveksi difusi 2D adalah sebagai berikut
+
 ![gambar](https://user-images.githubusercontent.com/105971274/169654760-cc46104a-fbbd-4ee2-9303-0139f48f283a.png)
 
 # 2.3 SCRIPT DAN HASIL
